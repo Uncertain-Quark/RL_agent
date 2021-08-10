@@ -1,4 +1,4 @@
-#REINFORCEMENT LEARNING AGENT
+# REINFORCEMENT LEARNING AGENT
 
 This repository consists of the reinforcement learning agent based on Q-learning algorithm. For exploration, we employed stragies such as epsilon constant, epsilon greedy and boltzmann exploration.
 
