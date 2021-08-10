@@ -1,6 +1,6 @@
 # REINFORCEMENT LEARNING AGENT
 
-This repository consists of the reinforcement learning agent based on Q-learning algorithm. For exploration, we employed stragies such as epsilon constant, epsilon greedy and boltzmann exploration.
+This project was a part of the Reinforcement learning course (CS6700) Jan-May 2021 at IIT Madras. The project involved deploying a reinforcement learning agent in order to be able to solve discrete environments. In the test set, 3 environments were tested in particular. This repository consists of the reinforcement learning agent based on Q-learning algorithm. For exploration, we employed stragies such as epsilon constant, epsilon greedy and boltzmann exploration.
 
 We observed that boltzmann exploration converges faster for complex environments. However, for simple enough environments, epsilon greedy generally plays a better role.
 
